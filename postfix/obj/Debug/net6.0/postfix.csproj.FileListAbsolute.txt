@@ -1,0 +1,15 @@
+/Users/alperates/RiderProjects/Postfixcartcurt/postfix/bin/Debug/net6.0/postfix
+/Users/alperates/RiderProjects/Postfixcartcurt/postfix/bin/Debug/net6.0/postfix.deps.json
+/Users/alperates/RiderProjects/Postfixcartcurt/postfix/bin/Debug/net6.0/postfix.runtimeconfig.json
+/Users/alperates/RiderProjects/Postfixcartcurt/postfix/bin/Debug/net6.0/postfix.dll
+/Users/alperates/RiderProjects/Postfixcartcurt/postfix/bin/Debug/net6.0/postfix.pdb
+/Users/alperates/RiderProjects/Postfixcartcurt/postfix/obj/Debug/net6.0/postfix.csproj.AssemblyReference.cache
+/Users/alperates/RiderProjects/Postfixcartcurt/postfix/obj/Debug/net6.0/postfix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alperates/RiderProjects/Postfixcartcurt/postfix/obj/Debug/net6.0/postfix.AssemblyInfoInputs.cache
+/Users/alperates/RiderProjects/Postfixcartcurt/postfix/obj/Debug/net6.0/postfix.AssemblyInfo.cs
+/Users/alperates/RiderProjects/Postfixcartcurt/postfix/obj/Debug/net6.0/postfix.csproj.CoreCompileInputs.cache
+/Users/alperates/RiderProjects/Postfixcartcurt/postfix/obj/Debug/net6.0/postfix.dll
+/Users/alperates/RiderProjects/Postfixcartcurt/postfix/obj/Debug/net6.0/refint/postfix.dll
+/Users/alperates/RiderProjects/Postfixcartcurt/postfix/obj/Debug/net6.0/postfix.pdb
+/Users/alperates/RiderProjects/Postfixcartcurt/postfix/obj/Debug/net6.0/postfix.genruntimeconfig.cache
+/Users/alperates/RiderProjects/Postfixcartcurt/postfix/obj/Debug/net6.0/ref/postfix.dll
